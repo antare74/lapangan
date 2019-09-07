@@ -11,6 +11,8 @@ error_reporting(0);
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Trend Futsal Centre</title>
+    <link rel = "icon" href =  
+"images/logo-bola.png">
    <?php include"style.php";?>
    <?php include"appConfig/conn.php";
          include"appConfig/libb.php";
