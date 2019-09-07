@@ -1,0 +1,5 @@
+login admin
+
+locahost/vigor/vigoradmin
+user: admin
+pass: admin
