@@ -1,6 +1,6 @@
 <div class="container">
         <div class="jumbotron text-center bg-transparent margin-none">
-            <h1 id="c-white">Daftar Jadwal Lapangan Vigor Pontianak</h1>
+            <h1 id="c-white">Daftar Jadwal Lapangan  Trend Futsal Centre</h1>
             <p></p>
         </div>
         <div class="page-section">
@@ -31,7 +31,7 @@
 			<br>
             <div class="row">
                 <div class="col-md-12 col-lg-12">
-					<h4 id="c-white" class="page-section-heading"> DAFTAR JADWAL FUTSAL VIGOR </h4>
+					<h4 id="c-white" class="page-section-heading"> DAFTAR JADWAL Trend Futsal Centre </h4>
                     <div class="panel panel-default"style="border-radius:3px;padding:0.5rem">
                         <!-- Data table -->
                         <table id="contact-detail" class="responsive table-striped display nowrap" cellspacing="0" width="100%">

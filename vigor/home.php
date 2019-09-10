@@ -26,7 +26,7 @@
                     <?php
                     if(isset($_SESSION['username'])){
 
-                        echo' <p class="text-subhead">Selamat Datang Di VIGOR Futsal Pontianak</p>
+                        echo' <p class="text-subhead">Selamat Datang Di Trend Futsal Centre</p>
                         <br>
                         <a class="btn btn-green-500 btn-lg paper-shadow" data-hover-z="3" data-animated data-toggle="modal" href="#modal-overlay-booking-member">
                             BOOKING SEKARANG</a>'

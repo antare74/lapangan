@@ -22,11 +22,11 @@ echo"
                 <table class=''>
                   <tbody>
                     <tr>
-                      <td><h4>VIGOR FUTSAL PONTIANAK</h4></td>
+                      <td><h4>Trend Futsal Centre - Tangerang</h4></td>
                     </tr>
                     <tr>
                       <td>
-                      Jl. Letjen Sutoyo (Belakang Museum), Pontianak, Kalimantan Barat 
+                      Jl. Tipar Raya, Kec Jambe, Kab. Tangerang 
                       </td>
                     </tr>
                   
@@ -34,7 +34,7 @@ echo"
                       <td>Phone: 0561-761090</td>
                     </tr>
                     <tr>
-                      <td>vigorpontianak.com</td>
+                      <td>Trend Futsal Centre dot com</td>
                     </tr>
                   </tbody>
                 </table>
@@ -162,7 +162,7 @@ echo"
                 <table class='table table-bordered table-invoice-full'>
                   <tbody>
                     <tr>
-                      <td class='msg-invoice' width='85%'><h4>Invoice Boking Lapangan Vigor </h4>
+                      <td class='msg-invoice' width='85%'><h4>Invoice Boking Lapangan Trend Centre </h4>
                         <a href='#' class='tip-bottom' title='Kasir'>Kasir</a> |  <a href='#' class='tip-bottom' title='BCA (78889991) - Mandiri (788928292)-BRI (082928938) '>BCA (78889991) - Mandiri (788928292)-BRI (082928938) </a> |  <a href='#' class='tip-bottom' title='SWIFT code'>Design By :  </a>|  <a href='#' class='tip-bottom' title='IBAN Billing address'>Fhani Kurniawan </a></td>
                       <td class='right'><strong>Ubah Status Pembayaran</strong> <br>
                         </td>

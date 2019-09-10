@@ -10,7 +10,7 @@
 
 <div class="container">
     <div class="jumbotron text-center bg-transparent margin-none">
-        <h1>PEMBAYARAN BOOKING VIGOR FUTSAL</h1>
+        <h1>PEMBAYARAN BOOKING Trend Futsal Centre</h1>
         <p></p>
     </div>
     <div class="page-section">

@@ -21,7 +21,7 @@
       <td colspan='6' align='center'><h3><strong>#RINCIAN TRANSAKSI ANDA</strong></h3></td>
     </tr>
     <tr>
-      <td width='30%'><h4><strong>VIGOR FUTSAL PONTIANAK</strong></h4></td>
+      <td width='30%'><h4><strong>Trend Futsal Centre</strong></h4></td>
       <td colspan='2'><strong>RINCIAN IDENTITAS</strong></td>
       <td colspan='3'><strong>RINCIAN INVOICE</strong></td>
     </tr>

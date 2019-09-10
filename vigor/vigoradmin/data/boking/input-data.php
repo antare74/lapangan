@@ -15,19 +15,19 @@
                 <table class="">
                   <tbody>
                     <tr>
-                      <td><h4>VIGOR FUTSAL PONTIANAK</h4></td>
+                      <td><h4>Invoice Boking Lapangan Vigor</h4></td>
                     </tr>
                     <tr>
                       <td>
-                      Jl. Letjen Sutoyo (Belakang Museum), Pontianak, Kalimantan Barat 
+                      Jl. Tipar Raya, Kec Jambe, Kab. Tangerang Banten 
                       </td>
                     </tr>
                   
                     <tr>
-                      <td>Phone: 0561-761090</td>
+                      <td>Phone: 0899999999</td>
                     </tr>
                     <tr>
-                      <td>vigorpontianak.com</td>
+                      <td>Invoice Boking Lapangan Vigor</td>
                     </tr>
                   </tbody>
                 </table>

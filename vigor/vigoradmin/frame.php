@@ -22,7 +22,7 @@ include"../appConfig/libb.php";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Vigor Admin</title>
+<title>Trend Futsal Centre</title>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -64,7 +64,7 @@ include"../appConfig/libb.php";
 </div>
 
 <div class="row-fluid">
-  <div id="footer" class="span12"> 2018 &copy; Vigor Admin.  <a href="#"></a> </div>
+  <div id="footer" class="span12"> 2019 &copy; Trend Futsal Centre.  <a href="#"></a> </div>
 </div>
 <script src="js/excanvas.min.js"></script> 
 <script src="js/jquery.min.js"></script> 
